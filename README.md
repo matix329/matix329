@@ -9,7 +9,6 @@ Currently, I’m working on my **master’s thesis** in the field of **MLOps**, 
 - **Programming Languages:** Python, learning Rust, C++
 - **Frameworks and Tools:** Kafka, Docker, Mlflow, learning Apache tools
 - **Cloud:** learning AWS
-- **Operating System:** macOS
 
 ---
 
