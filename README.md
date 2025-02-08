@@ -15,13 +15,14 @@ Currently, I’m working on my **master’s thesis** in the field of **MLOps**, 
 ## 📚 Projects
 
 ### 🔨 Currently Working On:
-- **[Master's Thesis](https://github.com/matix329/NeuralSatSeg):** Project for satellite image segmentation using neural networks. Focused on building efficient models and infrastructure for image preprocessing, training, and evaluation. Practical application of Big Data – data analysis and engineering at scale.
+- **[Master's Thesis](https://github.com/matix329/NeuralSatSeg):** Project for satellite image segmentation using neural networks.
 
 ### 🚧 In Progress:
-- **[Banking App](https://github.com/matix329/banking_app):** Modular banking system in Python with PostgreSQL, supporting accounts, login, and transfers.
+- **[Banking App](https://github.com/matix329/banking_app):** Modular banking system
+- **[api_project](https://github.com/matix329/api_project):** A project utilizing FastAPI for creating endpoints that produce and consume data from Kafka topics.
 
 ### ✅ Completed:
-- **[Quantum Phish Detector](https://github.com/matix329/quantum-phish-detector):** A quantum machine learning project leveraging VQC algorithms for phishing URL detection.
+- **[Quantum Phish Detector](https://github.com/matix329/quantum-phish-detector):** A quantum machine learning project
 
 ## 🎯 Goals
 - Gain hands-on experience as a Data Engineer.
