@@ -17,9 +17,3 @@ Currently, I’m working on my **master’s thesis** in the field of **MLOps**, 
 
 ### 🔨 Currently Working On:
 - **[Master's Thesis](https://github.com/matix329/NeuralSatSeg):** Project for satellite image segmentation using neural networks.
-
-## 🎯 Goals
-- Gain hands-on experience as a Data Engineer.
-- Build scalable ETL systems using modern tools.
-- Master AWS and develop cloud-based projects.
-- Learning programming languages which are used in modern Big Data
